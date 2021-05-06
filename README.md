@@ -17,9 +17,9 @@ npm run dev
 
 ## Screenshots
 
-Version Pc
+Mobile Version</br>
 ![](screenshots/1.png)</br>
-Mobile Version
+Pc Version</br>
 ![](screenshots/2.png)</br>
 
 
