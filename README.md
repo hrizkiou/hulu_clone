@@ -23,10 +23,12 @@ https://hulu-clone-p3j87spy4-hrizkiou.vercel.app
 
 ## Screenshots
 
-5k</br>
-![](screenshots/3.png)</br>
 Mobile Version</br>
 ![](screenshots/1.png)</br>
+
+5k</br>
+![](screenshots/3.png)</br>
+
 Pc Version</br>
 ![](screenshots/2.png)</br>
 
